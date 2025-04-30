@@ -1,0 +1,272 @@
+[
+
+    {
+        "image_id": 101,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2024/12/30/16/17/products-9300602_1280.jpg",
+        "image_description": "Hydrating face serum that deeply nourishes and plumps your skin overnight." 
+    },
+
+    {
+        "image_id": 102,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2020/09/12/19/46/brushes-5566571_1280.jpg",
+        "image_description": "Exfoliating scrub sloughs off dead skin cells for a radiant glow." 
+
+    },
+
+    {
+        "image_id": 103,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2017/08/09/09/06/scrub-2613852_640.jpg",
+        "image_description": "Lightweight moisturizer perfect for daily hydration without clogging pores." 
+
+    },
+
+    {
+        "image_id": 104,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2019/11/27/02/19/colors-4655921_640.jpg",
+        "image_description": "Gentle cleanser removes dirt, oil, and makeup without stripping natural oils." 
+
+    },
+
+    {
+        "image_id": 105,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2019/12/29/08/37/women-4726513_640.jpg",
+        "image_description": "Vitamin C serum brightens skin and evens out tone with daily us" 
+
+    },
+
+    {
+        "image_id": 106,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2017/05/30/19/42/skincare-2357980_640.jpg",
+        "image_description": "Soothing aloe gel calms irritation and hydrates dry, sensitive skin." 
+
+    },
+
+    {
+        "image_id": 107,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2016/10/26/02/33/makeup-1770509_640.jpg",
+        "image_description": "Retinol cream reduces fine lines and improves skin texture over time." 
+
+    },
+
+    {
+        "image_id": 108,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2024/12/30/16/17/products-9300602_1280.jpg",
+        "image_description": "Hydrating face serum that deeply nourishes and plumps your skin overnight." 
+
+    },
+
+    {
+        "image_id": 109,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2014/12/21/23/31/cosmetics-575521_640.png",
+        "image_description": "Lightweight sunscreen protects against UV damage without greasy residue." 
+
+    },
+
+    {
+        "image_id": 111,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2017/05/30/19/42/cosmetic-2357981_640.jpg",
+        "image_description": "Anti-aging night cream firms and restores skin while you sleep."
+
+    },
+
+    
+    {
+        "image_id": 112,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2016/03/31/04/50/blush-1292054_640.jpg",
+        "image_description": "Oil-free moisturizer keeps skin balanced and shine-free all day."
+
+    },
+
+
+    
+    {
+        "image_id": 113,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2021/02/26/11/51/cosmetics-6051633_640.jpg",
+        "image_description": "Charcoal face mask detoxifies and tightens pores for smoother skin."
+
+    },
+
+
+    
+    {
+        "image_id": 114,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2024/05/22/00/01/product-8779375_640.jpg",
+        "image_description": "Eye cream reduces puffiness and brightens dark under-eye circles."
+
+    },
+
+
+    
+    {
+        "image_id": 115,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2024/05/22/00/01/product-8779375_640.jpg",
+        "image_description": "Clay mask purifies oily skin and clears clogged pores effectively."
+
+    },
+
+
+    
+    {
+        "image_id": 116,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2020/10/10/18/02/makeup-5643868_640.jpg",
+        "image_description": "Niacinamide serum minimizes pores and smooths uneven skin tone."
+    
+
+    },
+
+
+    
+    {
+        "image_id": 117,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2022/12/10/12/43/orange-7647073_640.jfif",
+        "image_description": "Calming toner balances skin pH and preps it for moisturizing."
+
+    },
+
+
+    
+    {
+        "image_id": 118,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2021/08/03/06/43/bottles-6518626_640.jpg",
+        "image_description": "Collagen cream boosts elasticity and helps restore youthful firmness."
+
+    },
+
+
+    
+    {
+        "image_id": 119,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2015/01/10/15/18/beauty-595348_640.jpg",
+        "image_description": "Tea tree oil spot treatment targets blemishes without over-drying."
+
+    },
+
+
+    
+    {
+        "image_id": 120,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2020/04/02/05/18/beauty-4993466_640.jpg",
+        "image_description": "Hyaluronic acid serum delivers intense hydration and skin plumpness."
+
+    },
+
+
+    
+    {
+        "image_id": 121,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2019/12/29/08/39/women-4726516_640.jpg",
+        "image_description": "Brightening face mask revives dull, tired-looking skin instantly."
+
+    },
+
+
+    
+    {
+        "image_id": 122,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2020/04/02/05/19/beauty-4993469_640.jpg",
+        "image_description": "Daily face wash formulated for acne-prone skin and active breakouts."
+
+    },
+
+
+    
+    {
+        "image_id": 123,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2020/09/12/19/46/brushes-5566570_640.jpg",
+        "image_description": "Gentle exfoliating pads improve texture and clear away impurities."
+
+    },
+
+
+    
+    {
+        "image_id": 124,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2021/08/03/06/47/earrings-6518631_640.jpg",
+        "image_description": "Overnight sleeping mask deeply moisturizes and refreshes skin by morning."
+
+    },
+
+
+    
+    {
+        "image_id": 125,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2024/09/01/15/40/ai-generated-9014380_640.png",
+        "image_description": "Lightweight gel moisturizer absorbs quickly and cools irritated skin."
+
+    },
+
+
+    
+    {
+        "image_id": 126,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2024/05/13/20/10/ai-generated-8759668_640.jpg",
+        "image_description": "SPF-infused day cream hydrates while shielding from sun damage."
+
+    },
+
+
+    
+    {
+        "image_id": 127,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2022/08/31/09/51/podium-7422911_640.jpg",
+        "image_description": "Facial mist refreshes and hydrates skin throughout the day."
+
+    },
+
+    
+    {
+        "image_id": 128,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2020/04/02/05/19/beauty-4993471_640.jpg",
+        "image_description": "Enzyme peel exfoliates gently for brighter, smoother skin."
+
+    },
+
+    
+    {
+        "image_id": 129,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2014/05/25/11/30/cosmetics-packaging-353541_640.jpg",
+        "image_description": "Nourishing balm soothes dry patches and locks in moisture."
+
+    },
+
+    
+    {
+        "image_id": 130,
+        "image_category":"Skin Care Product",
+        "image_url": "https://cdn.pixabay.com/photo/2020/04/02/05/19/beauty-4993472_640.jpg",
+        "image_description": "Detox face wash purifies skin and balances oil production."
+
+    }
+
+
+
+    
+]
